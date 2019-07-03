@@ -11,6 +11,7 @@ The articles in this section of the documentation show how to use various featur
 
 - [How to: Create CLR Empty Projects](../dotnet/how-to-create-clr-empty-projects.md)
 - [How to: Create CLR Console Applications (C++/CLI)](../dotnet/how-to-create-clr-console-applications-cpp-cli.md)
+- [How to: Migrate your C++/CLI project from .NET Framework to .NET Core](../dotnet/how-to-migrate-cpp-cli-to-netcore.md)
 - [How to: Use Tracking References in C++/CLI](../dotnet/how-to-use-tracking-references-in-cpp-cli.md)
 - [How to: Use Arrays in C++/CLI](../dotnet/how-to-use-arrays-in-cpp-cli.md)
 - [How to: Define and Consume Classes and Structs (C++/CLI)](../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md)

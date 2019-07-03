@@ -2494,6 +2494,8 @@
           href: dotnet/how-to-create-clr-empty-projects.md
         - name: "How to: Create CLR console applications"
           href: dotnet/how-to-create-clr-console-applications-cpp-cli.md
+        - name: "How to: Migrate your C++/CLI project from .NET Framework to .NET Core"
+          href: dotnet/how-to-migrate-cpp-cli-to-netcore.md
         - name: "How to: Use tracking references in C++/CLI"
           href: dotnet/how-to-use-tracking-references-in-cpp-cli.md
         - name: "How to: Use arrays in C++/CLI"
