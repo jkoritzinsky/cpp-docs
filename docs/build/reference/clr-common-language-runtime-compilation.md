@@ -22,6 +22,10 @@ One or more of the following switches, comma-separated.
 
    With no options, **/clr** creates metadata for the application. The metadata can be consumed by other CLR applications, and enables the application to consume types and data in the metadata of other CLR components. For more information, see [Mixed (Native and Managed) Assemblies](../../dotnet/mixed-native-and-managed-assemblies.md).
 
+- **netcore**
+  
+  With the **netcore** option, the application is compiled in mixed-mode for .NET Core. For more information, see [Mixed (Native and Managed) Assemblies](../../dotnet/mixed-native-and-managed-assemblies.md) and [How to: Migrate your C++/CLI project from .NET Framework to .NET Core](../../dotnet/how-to-migrate-cpp-cli-to-netcore.md).
+
 - **pure**
 
    **/clr:pure is deprecated**. The option is removed in Visual Studio 2017 and later. We recommend that you port code that must be pure MSIL to C#.
